@@ -8,8 +8,8 @@ on:
 env:
   DOCKER_IMAGE_NAME: my-app
   DOCKER_REGISTRY: docker.io
-  DOCKER_USERNAME: ssr349@gmail.com
-  DOCKER_PASSWORD: Sagar349
+  DOCKER_USERNAME: 
+  DOCKER_PASSWORD: 
   
 jobs:
   build-and-push:
